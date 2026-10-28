@@ -1,0 +1,5 @@
+Brizna 0.26.3
+
+publicacion manual
+
+Cada archivo esta firmado: Brizna comprueba la firma antes de instalar una actualizacion.
