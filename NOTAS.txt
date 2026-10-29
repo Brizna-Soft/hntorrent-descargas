@@ -1,0 +1,6 @@
+HNTorrent 0.27.1
+
+publicacion manual
+
+Cada archivo esta firmado: HNTorrent comprueba la firma antes de instalar una actualizacion.
+Brizna-0.27.1-x64.zip es el mismo programa para las copias que todavia se llaman Brizna.
